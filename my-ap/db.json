@@ -1,0 +1,148 @@
+{
+  "seller": [
+    {
+      "name": "syed faraz ali",
+      "email": "syed@seller.com",
+      "password": "abc@123",
+      "id": 1
+    },
+    {
+      "name": "suneel rathod",
+      "email": "suneelrathod@seller.com",
+      "password": "suneel@123",
+      "id": 2
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": 3
+    },
+    {
+      "name": "praveen",
+      "password": "aaa@123",
+      "email": "praveen@test.com",
+      "id": 4
+    },
+    {
+      "name": "syed",
+      "password": "kasd as",
+      "email": "ksadmasm@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "syed",
+      "password": "kasd as",
+      "email": "ksadmasm@gmail.com",
+      "id": 6
+    },
+    {
+      "name": "syed",
+      "password": "kasd as",
+      "email": "ksadmasm@gmail.com",
+      "id": 7
+    },
+    {
+      "name": "syed",
+      "password": "kasd as",
+      "email": "ksadmasm@gmail.com",
+      "id": 8
+    },
+    {
+      "name": "hi",
+      "password": "ksm",
+      "email": "sdis@aksdmias.com",
+      "id": 9
+    },
+    {
+      "name": "hi",
+      "password": "ksm",
+      "email": "sdis@aksdmias.com",
+      "id": 10
+    },
+    {
+      "name": "hi",
+      "password": "ksm",
+      "email": "sdis@aksdmias.com",
+      "id": 11
+    },
+    {
+      "name": "hi",
+      "password": "ksm",
+      "email": "sdis@aksdmias.com",
+      "id": 12
+    },
+    {
+      "name": "hi",
+      "password": "ksm",
+      "email": "sdis@aksdmias.com",
+      "id": 13
+    },
+    {
+      "name": "hi",
+      "password": "ksm",
+      "email": "sdis@aksdmias.com",
+      "id": 14
+    },
+    {
+      "name": "hi",
+      "password": "ksm",
+      "email": "sdis@aksdmias.com",
+      "id": 15
+    },
+    {
+      "name": "hi",
+      "password": "ksm",
+      "email": "sdis@aksdmias.com",
+      "id": 16
+    },
+    {
+      "name": "hi",
+      "password": "ksm",
+      "email": "sdis@aksdmias.com",
+      "id": 17
+    },
+    {
+      "name": "hi",
+      "password": "ksm",
+      "email": "sdis@aksdmias.com",
+      "id": 18
+    },
+    {
+      "name": "hi",
+      "password": "ksm",
+      "email": "sdis@aksdmias.com",
+      "id": 19
+    },
+    {
+      "name": "dckmisd",
+      "password": "sjcbudsnc",
+      "email": "sdis@aksdmias.com",
+      "id": 20
+    },
+    {
+      "name": "dckmisd",
+      "password": "sjcbudsnc",
+      "email": "sdis@aksdmias.com",
+      "id": 21
+    },
+    {
+      "name": "sudhir",
+      "password": "abc@123",
+      "email": "sudhir@seller.com",
+      "id": 22
+    },
+    {
+      "name": "sudhir ",
+      "password": "abc@123",
+      "email": "sudhir@seller.com",
+      "id": 23
+    },
+    {
+      "name": "thanoj",
+      "password": "abc@123",
+      "email": "thnoj@user.com",
+      "id": 24
+    }
+  ]
+}
